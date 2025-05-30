@@ -25,11 +25,11 @@ div._amk4 > ._amk6 :is(div, button)[role="button"][class]:not(.x13yyeie, .x1dxgm
 div._aju3 ._agtn > div /* media in quoted message */,
 div._aju3 .x1ozewix /* icon for filename in quoted message */,
 div._aju3 .x1ozewix + span /* filename in quoted message */,
-div._aju3 span._ajxd._ajxk /* sticker in quoted message */,
+/* div._aju3 span._ajxd._ajxk sticker in quoted message */
 div._ak4o /* voice note / audio in chat panel */,
 div._ahy5 > div /* link preview in chat panel */,
 div._ak15 > ._ahwq /* some link preview in link list panel */,
-span._ajxd._ajxk > ._ajxj._ajxd /* sticker in chat panel */,
+/*span._ajxd._ajxk > ._ajxj._ajxd sticker in chat panel */
 div.xz9dduz > div:first-child /* maps / location */,
 div._ajwt > div:first-child > div:nth-child(2) > div /* media preview in send media */,
 div._ak3i /* media preview thumb in send media */,
@@ -52,7 +52,7 @@ div._ajwt .xm0mufa > div /* document filename in send media */
 ._3V9pc:hover /* gif */,
 .kknmh:hover /*media reply thumb*/,
 ._2MmTH:hover /*media send preview*/,
-.ZRhsD._2foMf:hover /*Sticker*/,
+/* .ZRhsD._2foMf:hover Sticker*/
 .Efdtr:hover /* name in contact attachment */,
 .djhxrpsl:hover /* name in multi contact attachment */,
 ._3dPH0:hover /* contacts attachment */,
@@ -63,7 +63,7 @@ div._amk4 > ._amk6:hover :is(div, button)[role="button"][class]:not(.x13yyeie, .
 div._aju3:hover ._agtn > div /* media in quoted message */,
 div._aju3:hover .x1ozewix /* icon for filename in quoted message */,
 div._aju3:hover .x1ozewix + span /* filename in quoted message */,
-div._aju3:hover span._ajxd._ajxk /* sticker in quoted message */,
+/* div._aju3:hover span._ajxd._ajxk sticker in quoted message */
 div._amk6:hover div._ahz2 /* user profile pic in contact attachment */,
 div._amk6:hover div.x2lah0s.x1c4vz4f.xdl72j9.x194xeti /* user profile pic in multiple contact attachment */,
 div._amk6:hover div._ahz1 /* user name in contact attachment */,
@@ -71,7 +71,7 @@ div._amk6:hover div.xs83m0k.x1iyjqo2.xdl72j9.x18wx58x.x6ikm8r.x10wlt62 /* user n
 div._ak4o:hover /* voice note / audio in chat panel */,
 div._ahy5 > div:hover /* link preview in chat panel */,
 div._ak15 > ._ahwq:hover /* some link preview in link list panel */,
-span._ajxd._ajxk > ._ajxj._ajxd:hover /* sticker in chat panel */,
+/* span._ajxd._ajxk > ._ajxj._ajxd:hover /* sticker in chat panel */
 div.xz9dduz > div:first-child:hover /* maps / location */,
 div._ajwt > div:first-child > div:nth-child(2) > div:hover /* media preview in send media */,
 div._ak3i:hover /* media preview thumb in send media */,
@@ -88,8 +88,8 @@ div._ajwt .xm0mufa > div:hover /* document filename in send media */
 /* updated wa version (v2.3000.xx) */
 span._ajxd._ajxk > ._ajxj._ajxd /*set pseudo background on sticker*/
 {
-  background-color: var(--incoming-background) !important;
+  /* background-color: var(--incoming-background) !important;
   border-radius: 7.5px !important;
-  box-shadow: 0 1px 0.5px rgba(0, 0, 0, 0.13) !important;
+  box-shadow: 0 1px 0.5px rgba(0, 0, 0, 0.13) !important; */
 }
 

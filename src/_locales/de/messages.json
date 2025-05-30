@@ -32,6 +32,12 @@
     "toggleMediaPreviewDescription": {
         "message": "Verbirgt alle Bilder, Videos, Sticker usw. separat vom Text."
     },
+    "toggleStickersPreview": {
+        "message": "Sticker-Vorschau"
+    },
+    "toggleStickersPreviewDescription": {
+        "message": "Sticker auf der linken Seite entfernen."
+    },
     "toggleMediaGallery": {
         "message": "Mediengalerie"
     },

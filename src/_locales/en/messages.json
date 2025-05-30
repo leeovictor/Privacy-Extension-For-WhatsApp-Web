@@ -32,6 +32,12 @@
     "toggleMediaPreviewDescription": {
         "message": "Blurs all images, videos, stickers, ... in separation from the text."
     },
+    "toggleStickersPreview": {
+        "message": "Stickers preview"
+    },
+    "toggleStickersPreviewDescription": {
+        "message": "Remove stickers on the left."
+    },
     "toggleMediaGallery": {
         "message": "Media gallery"
     },

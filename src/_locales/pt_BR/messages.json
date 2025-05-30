@@ -32,6 +32,12 @@
     "toggleMediaPreviewDescription": {
         "message": "Desfoca todas as imagens, vídeos, adesivos, etc., separadamente do texto."
     },
+     "toggleStickersPreview": {
+        "message": "Visualização de adesivos"
+    },
+    "toggleStickersPreviewDescription": {
+        "message": "Remove os adesivos à esquerda."
+    },
     "toggleMediaGallery": {
         "message": "Galeria de mídia"
     },

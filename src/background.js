@@ -14,6 +14,7 @@ const defaultSettings = {
     on: true,
     currentPopupMessage: "",
     styles: {
+      stickersPreview: true,
       mediaGallery: true,
       mediaPreview: true,
       messages: true,
